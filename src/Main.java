@@ -12,7 +12,7 @@ public class Main {
 
 
 
-        Human player1 = new Human("Alex", 100, 20);
+        Human  player1 = new Human("Alex", 100, 20);
         players.add(player1);
         Human player2 = new Human("Reid", 50, 5);
         players.add(player2);
